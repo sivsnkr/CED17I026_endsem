@@ -1,4 +1,4 @@
-# A C program to capture the key strokes of capital letters
+# a C program to capture the key strokes of capital letters
 
 ## commands to regenerate the screeshot
 * make
