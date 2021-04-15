@@ -1,7 +1,6 @@
-# CED17I026_endsem
+# A C program to capture the key strokes of capital letters
 
 ## commands to regenerate the screeshot
-
 * make
 * sudo insmod keylogger.ko
 * tail -f /var/log/syslog
