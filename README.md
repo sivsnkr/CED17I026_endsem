@@ -1,6 +1,6 @@
 # CED17I026_endsem
 
-# commands to regenerate the screeshot
+#1 commands to regenerate the screeshot
 
 * make
 * sudo insmod keylogger.ko
